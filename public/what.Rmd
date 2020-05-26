@@ -1,12 +1,12 @@
 ---
-title: "Lecture Page"
+title: "what"
 author: "tskhirtladze"
 date: "May 26, 2020"
 output: html_document
 ---
 
 
-Here is a [homework](./lectures/karl.pdf).
+what r u?
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
