@@ -5,6 +5,7 @@ date: "May 26, 2020"
 output: html_document
 ---
 
+
 Here is the [homework](../lectures/karl.pdf).
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
