@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-Here is a [homework](lectures/karl.pdf).
+Here is a [homework](url = 'https://think-again.netlify.app/lectures/karl.pdf').
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
